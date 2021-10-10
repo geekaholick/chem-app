@@ -98,51 +98,27 @@ wordpress expert">
         <!-- /Boostrap Navigation BOC -->
         <div class="container">
 
-          <!-- /Display Mobile Logo Only -->
-          <a class="navbar-brand hidden-lg hidden-md hidden-sm" href="index.html">
-            <img src="images/demo-categories/lawyer/logo.png" width="214" height="47" alt="WebPanda Lawyer" data-at2x="images/demo-categories/lawyer/logo@2x.png">
-          </a>
-          <!-- /Display Mobile Logo Only -->
-
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
           <!-- /Navigation BOC -->
           <div class="collapse navbar-collapse yit-mega-menu" id="navbarSupportedContent">
 
             <!-- /Navigation Link Left BOC -->
             <ul class="navbar-nav ml-auto mx-auto xs-navbar-nav">
-              <li class="nav-item"><a title="Home" class="nav-link" href="#home">Home</a></li>
-              <li class="nav-item"><a title="About" class="nav-link" href="#about">About</a></li>
-              <li class="nav-item"><a title="Serices" class="nav-link" href="#practice">Practice Area</a></li>
-              <li class="nav-item"><a title="Serices" class="nav-link" href="#attorneys">Attorneys</a></li>
             </ul>
             <!-- /Navigation Link Left BOC -->
 
             <!-- /Display Medium Device Logo Only -->
-            <a class="navbar-brand hidden-xs" href="index.html"><img src="images/demo-categories/lawyer/logo.png" width="214" height="47" alt="WebPanda Default"
-              data-at2x="images/demo-categories/lawyer/logo.png@2x.png"></a>
+            <a class="navbar-brand hidden-xs"><img src="images/demo-categories/lawyer/CSP.png" width="214" height="47" alt="WebPanda Default"
+              data-at2x="images/demo-categories/lawyer/CSP@2x.png"></a>
             <!-- /Display Medium Device Logo Only -->
+
+            <a class="navbar-brand hidden-xs"><img src="images/demo-categories/lawyer/CRDF.png" width="214" height="47" alt="WebPanda Default"
+              data-at2x="images/demo-categories/lawyer/CRDF@2x.png"></a>
+
+            <a class="navbar-brand hidden-xs"><img src="images/demo-categories/lawyer/USC.png" width="214" height="47" alt="WebPanda Default"
+              data-at2x="images/demo-categories/lawyer/USC@2x.png"></a>
 
             <!-- /Navigation Link Right BOC -->
             <ul class="navbar-nav ml-auto mx-auto xs-navbar-nav">
-              <li class="nav-item"><a title="Blog" class="nav-link" href="#blog">Blog</a></li>
-              <li class="nav-item"><a title="Why Us" class="nav-link" href="#why">Why Us</a></li>
-              <li class="nav-item"><a title="Clients" class="nav-link" href="#client">Clients</a></li>
-              <li class="nav-item"><a title="Contact" class="nav-link" href="#contact">Contact</a></li>
-
-              <!-- /Dropdown Sample BOC (hide for now) -->
-              <li class="nav-item dropdown hidden">
-                <a title="Drodown" class="nav-link dropdown-toggle" href="javascript:void(0);" id="navbarDropdown10" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drodown</a>
-                <div class="dropdown-menu yit-radius-none" aria-labelledby="navbarDropdown10">
-                  <a class="dropdown-item" href="javascript:void(0);">Action</a>
-                  <a class="dropdown-item" href="javascript:void(0);">Another action</a>
-                  <a class="dropdown-item" href="javascript:void(0);">Something else here</a>
-                </div>
-              </li>
-              <!-- /Dropdown Sample EOC (hide for now) -->
-
             </ul>
             <!-- /Navigation Link Right EOC -->
 
@@ -151,101 +127,6 @@ wordpress expert">
 
         </div>
         <!-- /Boostrap Navigation EOC -->
-
-        <!-- /Custom Fade Full Style Nav BOC (menu hide in mobile / ipd small) -->
-        <div class="toggle-nav primary-color-bg section-h-space hidden-xs hidden-sm">
-          <div class="container-fluid">
-            <div class="row no-gutters">
-
-              <!-- /Left Col BOC -->
-              <div class="col-xl-6 col-md-6 col-lg-6">
-                <div class="d-flex align-items-center height-cover justify-content-center text-center" style="background-image:url(images/bg-items/bg-pattern-4.png);">
-                  <div class="yit-full-menu-left pad-30-all">
-                    <img src="images/logo/webpanda-logo-256-icon.png" alt="WebPanda Logo Icon" class="yit-img-center" width="256" height="256">
-                    <h5 class="mt-40">WebPanda is most powerful bootstrap4 template ever on market</h5>
-                    <hr class="widht-50 height-3 pink-color-bg">
-                    <a href="Javascript:void(0);" title="Purchase On Evato" class="btn btn-rounded mt-10">Purchase On Evato &nbsp; <i class="fa fa-shopping-basket"></i></a>
-                    <p class="trade yit-pos-h-center pos-b-25">&copy; 2018 <a class="link-pink" href="Javsacript:void(0);" title="WebPanda">WebPanda</a> is Proudly Powered by
-                        <a class="link-pink" href="https://themeforest.net/user/yankeethemes" target="_blank" title="Yankee Themes">Yankee Themes</a></p>
-                  </div>
-                </div>
-              </div>
-              <!-- /Left Col EOC -->
-
-              <!-- /Right Col BOC -->
-              <div class="col-xl-6 col-md-6 col-lg-6">
-                <div class="d-flex align-items-center height-cover light-grey-color-bg">
-                    <div class="yit-full-menu-right pad-30-all width-full">
-                      <ul class="yit-custom-nav-listing yit-listing-block">
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Home">Home</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Pages">Pages</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Portfolio">Portfolio</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Blog">Blog</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Elements">Elements</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li class="yit-nav-dropdown"><a class="nav-item" href="Javascript:void(0);" title="Feature">Feature</a>
-                          <ul class="yit-nav-dropdown-menu">
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                            <li><a href="Javascript:void(0);" title="Link1">Link1</a></li>
-                          </ul>
-                        </li>
-                        <li><a class="nav-item" href="Javascript:void(0);" title="Suport">Suport</a></li>
-                      </ul>
-                    </div>
-                </div>
-              </div>
-              <!-- /Right Col EOC -->
-
-            </div>
-          </div>
-        </div>
-        <!-- /Custom Fade Full Style Nav EOC -->
-
-        <!-- /Custom Nav Bar Icon BOC (menu hide in mobile / ipd small) -->
-        <a href="javascript:void(0)" class="nav-toggle-bar hidden-xs hidden-sm">
-        <div class="hamburger">
-          <div class="bar-1"></div>
-          <div class="bar-2"></div>
-          <div class="bar-3"></div>
-        </div>
-        </a>
-        <!-- /Custom Nav Bar Icon EOC -->
       </nav>
     </div>
     <!-- /Navigation EOC -->
@@ -255,7 +136,7 @@ wordpress expert">
       <div class="flexslider flexslider-fade flex-paging-line-style">
         <ul class="slides">
           <li>
-            <div class="felx-slide-img slide-1 yit-cover-bg yit-bg-center" style="background-image:url(images/demo-categories/lawyer/banner-slide-1.jpg);">
+            <div class="felx-slide-img slide-1 yit-cover-bg yit-bg-center" style="background-image:url(images/demo-categories/lawyer/Flammable.jpg);">
               <div class="flex-slide-text">
                 <div class="container">
                   <div class="row">
@@ -274,7 +155,7 @@ wordpress expert">
             </div>
           </li>
           <li>
-            <div class="felx-slide-img slide-2 yit-cover-bg bg-fade-overlay" style="background-image:url(images/demo-categories/lawyer/banner-slide-2.jpg);">
+            <div class="felx-slide-img slide-2 yit-cover-bg bg-fade-overlay" style="background-image:url(images/demo-categories/lawyer/Flammable.jpg);">
               <div class="flex-slide-text">
                 <div class="container">
                   <div class="row">
@@ -309,15 +190,14 @@ wordpress expert">
       <div class="row">
         <div class="col-lg-6 col-md-6 col-xl-6 d-flex align-items-center">
           <div class="item-content">
-            <h6 class="font-xxsmall cream-color-text"> Who We Are </h6>
-            <h1>Welcome to The Law Firm</h1>
-            <p class="yit-lead">There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
-            <blockquote class="yit-blockquote style-2 border-r-none"> <i class="fa fa-quote-left cream-color-text mb-10"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati vitae porro omnis voluptate officiis incidunt aliquid natus sapiente pariatur repellendus perferendis quod esse, voluptatibus nesciunt, neque nihil dicta! <cite>- John Doe</cite> </blockquote>
-            <img src="images/author-sign.png" alt="Author Signature" width="160" height="84">
+            <h2>Remote Interactive Training on Chemical Safety and Security for Academic Institutions in the Visayas Region</h2>
+            <p class="mb-10">The University of San Carlos (USC), in collaboration with the U.S State of Defense Chemical Safety Program (CSP) and CRDF Global, is pleased to offer a three-day remote training course in chemical laboratory safety and security.</p>
+            <p class="mb-10">As academic institutions continue to strive to provide better learning experience for students in Chemistry and other science disciplines, challenges in improving the laboratory safety and security are encountered.</p>
+            <p class="mb-10">This remote training aims to raise awareness and equip the participants with the knowledge and tools necessary for establishing an operative chemical safety and security management program. The course will provide a comprehensive discussion in developing the best practices in chemical security and safe management of hazardous chemicals.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-xl-6 d-flex justify-content-center align-items-end">
-          <figure class="mb-0"><img src="images/demo-categories/lawyer/lawyer-person.png" alt="Lawyer Person" class="yit-img-center" width="469" height="552" ></figure>
+          <figure class="mb-0"><img src="images/demo-categories/lawyer/IMG-2473.jpg" alt="Lawyer Person" class="yit-img-center" width="469" height="552" ></figure>
         </div>
       </div>
     </div>
@@ -343,46 +223,25 @@ wordpress expert">
         <div class="col-lg-8 col-md-12 col-xl-8">
           <div class="yit-feature style-16 text-center mb-40">
             <div class="row">
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-law icon-medium mb-20"></i>
-                  <h6 class="white-color-text">Criminal Law</h6>
+              <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+                <div class="yit-feature-item" style="align-items:stretch">
+                  <h6 class="white-color-text">Day 1</h6>
                   <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
+                  <p>Introduction To Chemical Safety And Security Program</p>
                 </div>
               </div>
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-building icon-medium mb-20"></i>
-                  <h6 class="white-color-text"> Real Estate Law </h6>
+              <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+                <div class="yit-feature-item" style="align-items:stretch">
+                  <h6 class="white-color-text">Day 2</h6>
                   <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
+                  <p>Chemical Management (Inventory & Storage), International and National Regulations on Controlled Chemicals and Waste disposal</p>
                 </div>
               </div>
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-books icon-medium mb-20"></i>
-                  <h6 class="white-color-text">Financial Law </h6>
+              <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+                <div class="yit-feature-item" style="align-items:stretch">
+                  <h6 class="white-color-text">Day 3</h6>
                   <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                </div>
-              </div>
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-themis icon-medium mb-20"></i>
-                  <h6 class="white-color-text">Family Law</h6>
-                  <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                </div>
-              </div>
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-person icon-medium mb-20"></i>
-                  <h6 class="white-color-text"> Personal Law </h6>
-                  <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                </div>
-              </div>
-              <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="yit-feature-item"> <i class="justice-bracelets icon-medium mb-20"></i>
-                  <h6 class="white-color-text"> Drug Offence </h6>
-                  <hr class="width-30 height-1">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
+                  <p>Chemical Management (Waste Disposal), Emergency Planning and Response, Laboratory Visit</p>
                 </div>
               </div>
             </div>
@@ -404,150 +263,6 @@ wordpress expert">
   </section>
   <!-- /Practice Area Section EOC -->
 
-  <!-- /Attorneys Section BOC -->
-  <section id="attorneys" class="lawyer-attorneys light-grey-color-bg yit-bg-no-repeat yit-bg-r-b" style="background-image:url(images/demo-categories/lawyer/img-themis.png);">
-    <div class="line-divider-one hidden-xs hidden-sm hidden-md"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-12 col-xl-4 d-flex align-items-center">
-          <div class="item-content mb-40 sm-text-center width-full">
-            <h6 class="font-xxsmall cream-color-text"> Our Team </h6>
-            <h4> Meet Expert Attorneys </h4>
-          </div>
-        </div>
-
-        <!-- /Team Listing BOC -->
-        <div class="col-lg-9 col-md-12 col-xl-8">
-          <div class="yit-team style-5 text-center last-p-none">
-            <div class="row">
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-01.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>Brent Bliven</h6>
-                    <p>Business Lawyer</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center  style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-02.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>Laila Paszti</h6>
-                    <p>Family Lawyer</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-03.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>Stephen Pakan</h6>
-                    <p>Criminal Lawyer</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center  style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-04.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>Michael Webber</h6>
-                    <p>Sexual Case</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center  style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-05.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>Jean Rowe</h6>
-                    <p>Labour Lawyer</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center  style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-4 col-md-4 col-lg-4">
-                <div class="yit-team-item img-shadow cream-color-bg">
-                  <div class="yit-team-thumb mb-15"> <img src="images/demo-categories/lawyer/attorneys-06.png" alt="Team Thumbnail" class="yit-img-center" width="400" height="482"> </div>
-                  <div class="team-info">
-                    <h6>william smith</h6>
-                    <p>Senior Lawyer</p>
-                    <div class="team-social text-center">
-                      <ul class="yit-social icon-small social-circle text-center  style-6">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- /Team Listing EOC -->
-
-      </div>
-    </div>
-  </section>
-  <!-- /Attorneys Section EOC -->
-
-  <!-- /Call Action BOC -->
-  <section class="lawyer-firm-cta bg-fade-overlay" style="background-image:url(images/demo-categories/lawyer/section-img-4.jpg);" data-stellar-background-ratio="0.5">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="text-center white-color-text">
-            <h2>20 Years of Experience in Various Cases</h2>
-            <p class="yit-lead">It is not exhaustive since throught our experience we understand that a client’s needs are always diverse and dynamic.</p>
-            <a href="Javascript:void(0);" title="Free Consultation" class="btn">Free Consultation</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /Call Action EOC -->
-
   <!-- /Blog Section BOC -->
   <section id="blog" class="lawyer-blog yit-pos-relative yit-overflow light-grey-color-bg">
     <div class="line-divider-two hidden-xs hidden-sm hidden-md"></div>
@@ -556,8 +271,7 @@ wordpress expert">
       <div class="row">
         <div class="col">
           <div class="text-center">
-              <h6 class="font-xxsmall cream-color-text">Law News</h6>
-              <h4>Latest Blogs</h4>
+              <h4>Resource Speakers</h4>
           </div>
         </div>
       </div>
@@ -565,37 +279,42 @@ wordpress expert">
       <!--/Blog Listing BOC -->
       <div class="yit-blog style-3 mt-40 flex-box-spacer">
         <div class="row">
+          <div class="col-xl-4 col-md-4 col-lg-4"></div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-1.jpg" alt="Blog Thumbnail" width="1170" height="782">
-                <div class="post-date black-color-bg"> <i class="fa fa-calendar"></i> 18 October, 2017 | Admin </div>
-              </figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-1.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
-                <h6><a href="Javascript:void(0);" title="Blog Title">Speak With An Attorney</a></h6>
-                <p>It is a small world after all. Globalization is that great process that start perhaps with Mr. Marco Polo, but has since…</p>
-                <a class="font-xxsmall display-center-mob" href="Javascript:void(0);" title="Read More">Continue Reading <i class="fa fa-angle-double-right"></i></a> </div>
+                <h6><a href="Javascript:void(0);" title="Blog Title">Patrick John Y. Lim, Ph.D. (Melb.)</a></h6>
+                <p>Dr. Lim, a full professor of the University of San Carlos (USC) in Cebu, Philippines, is an active advocate in promoting chemical safety and security. He finished his doctorate degree in Chemistry at the University of Melbourne, Australia. Dr. Lim wears several hats: he is also the Director of the Research, Development, Extension, and Publications Office (RDEPO), the Editor-in-Chief of The Philippine Scientist, and the President of the Integrated Chemists of the Philippines (ICP) Cebu Chapter.</p>
+                </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-4 col-lg-4"></div>
+          <div class="col-xl-4 col-md-4 col-lg-4">
+            <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/sarno.png" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <div class="yit-blog-detail pad-20-all">
+                <h6><a href="Javascript:void(0);" title="Blog Title">Brian John Sarno, Ph.D</a></h6>
+                <p>Dr. Sarno is currently the Chair of the Department of Chemistry of the University of San Carlos (USC). He earned his doctorate degree in Material Science and Production Engineering at Kagoshima University, Japan. Dr. Sarno is now teaching Biochemistry and Physical Chemistry to undergraduate and graduate students of Chemistry and allied courses in USC.</p>
+                </div>
             </div>
           </div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-2.jpg" alt="Blog Thumbnail" width="1170" height="782">
-                <div class="post-date black-color-bg"> <i class="fa fa-calendar"></i> 19 October, 2017 | Admin </div>
-              </figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/SAMPLE.PNG" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
-                <h6><a href="Javascript:void(0);" title="Blog Title">Child Abuse Cases First</a></h6>
-                <p>It is a small world after all. Globalization is that great process that start perhaps with Mr. Marco Polo, but has since…</p>
-                <a class="font-xxsmall display-center-mob" href="Javascript:void(0);" title="Read More">Continue Reading <i class="fa fa-angle-double-right"></i></a> </div>
+                <h6><a href="Javascript:void(0);" title="Blog Title">MARIE KRISTIE B. REYES, R.Ch.</a></h6>
+                <p>Ms. Reyes, a registered chemist, is the Laboratory Head of the University of San Carlos- Water Laboratory. She is an alumna of the Chemical Security Program (CSP) and is the principal investigator of this three-day remote training on Chemical Safety and Security.</p>
+                </div>
             </div>
           </div>
                     <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-3.jpg" alt="Blog Thumbnail" width="1170" height="782">
-                <div class="post-date black-color-bg"> <i class="fa fa-calendar"></i> 22 October, 2017 | Admin </div>
-              </figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-3.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
-                <h6><a href="Javascript:void(0);" title="Blog Title">Barrister Forgery</a></h6>
-                <p>It is a small world after all. Globalization is that great process that start perhaps with Mr. Marco Polo, but has since…</p>
-                <a class="font-xxsmall display-center-mob" href="Javascript:void(0);" title="Read More">Continue Reading <i class="fa fa-angle-double-right"></i></a> </div>
+                <h6><a href="Javascript:void(0);" title="Blog Title">Sharajen A. Julasiri, M.S. (Non-thesis)</a></h6>
+                <p>Ms. Julasiri, a licensed chemist, finished her master’s degree in Chemistry (Non-thesis) at the University of San Carlos, Philippines. She was the Research Laboratory-in-Charge and the Pollution Control Officer of the Department of Chemistry. Currently, she is assigned at the Research, Development, Extension, and Publications Office (RDEPO).</p>
+                </div>
             </div>
           </div>
         </div>
@@ -661,91 +380,63 @@ wordpress expert">
   <section id="client" class="lawyer-testimonial" style="background-image:url(images/demo-categories/lawyer/dark_pattern.png);">
     <div class="line-divider-one hidden-xs hidden-sm hidden-md"></div>
     <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="text-center white-color-text">
-            <h6 class="font-xxsmall cream-color-text">Client Say</h6>
-            <h4>Our Testimonial</h4>
+        <div class="row">
+          <div class="col">
+            <div class="text-center">
+              <h2 class="text-uppercase caption-title">We are <span class="cream-color-text">branding agency</span></h2>
+            </div>
           </div>
         </div>
-      </div>
 
-      <!-- /Testimonial Listing BOC -->
-      <div class="yit-testimonial style-3 mt-40">
-        <div class="row">
-          <div class="col-xl-9 col-md-9 col-lg-9 mx-auto ml-auto">
-            <div class="owl-single owl-nav-shadow owl-carousel owl-theme owl-dots-nav steal-grey-color-text">
-              <div class="item">
-                <div class="yit-item">
-                  <p>WebPanda is a great theme to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start . Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem deserunt facilis minima sequi doloribus! Sit repellendus tempora quaerat quis labore laborum sequi, illum aperiam eius consectetur numquam error! Cum, ducimus!</p>
-                  <div class="yit-thumbnail">
-                    <div class="yit-display-tb-cell">
-                      <img width="100" height="100" src="images/testimonial/yit-thumb-1.jpg" alt="Testimonial Image"
-                    class="yit-img img-circle border-style-disp-none">
-                    </div>
-                    <div class="yit-content yit-display-tb-cell">
-                      <ul class="yit-rating yit-listing-inline">
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                      </ul>
-                      <h5 class="font-xxsmall text-left">Mark Joseph</h5>
-                      <h6 class="yit-client-post grey-color-text text-left">Business Man</h6>
-                    </div>
+        <!-- /Feature Listing BOC -->
+        <div class="yit-feature style-36 text-left">
+          <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+              <div class="yit-feature-item" style="align-items:stretch">
+                <div style="height:100%; display:flex; flex-direction:column">
+                  <figure class="mb-0">
+                    <img src="images/other/01.jpg" alt="Thumbnail" width="870" height="400">
+                  </figure>
+                  <div class="yit-feature-content light-grey-black-color-bg" style="flex: 1;">
+                    <h6 class="text-uppercase">CSPF</h6>
+                    <p class="mb-0 grey-color-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eius ullam deleniti debitis in non dolorem tempora, eveniet dicta ex esse quo nisi quaerat repellendus culpa sapiente necessitatibus impedit</p>
                   </div>
+                  <div class="yit-feature-footer dark-grey-black-color-bg pad-10-all pl-20"> <a class="cream-color-text text-uppercase" href="Javascript:void(0);" title="Read More">Know More <i class="fa fa-long-arrow-right"></i></a> </div>
                 </div>
               </div>
-              <div class="item">
-                <div class="yit-item">
-                  <p>WebPanda is a great theme to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start . Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem deserunt facilis minima sequi doloribus! Sit repellendus tempora quaerat quis labore laborum sequi, illum aperiam eius consectetur numquam error! Cum, ducimus!</p>
-                  <div class="yit-thumbnail">
-                    <div class="yit-display-tb-cell">
-                      <img width="100" height="100" src="images/testimonial/yit-thumb-2.jpg" alt="Testimonial Image"
-                    class="yit-img img-circle border-style-disp-none">
-                    </div>
-                    <div class="yit-content yit-display-tb-cell">
-                      <ul class="yit-rating yit-listing-inline">
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                      </ul>
-                      <h5 class="font-xxsmall text-left">Simmy Joseph</h5>
-                      <h6 class="yit-client-post grey-color-text text-left">Founder</h6>
-                    </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+              <div class="yit-feature-item" style="align-items:stretch">
+                <div style="height:100%; display:flex; flex-direction:column">
+                  <figure class="mb-0">
+                    <img src="images/demo-categories/lawyer/crdf_pic.png" alt="Thumbnail" width="870" height="400">
+                  </figure>
+                  <div class="yit-feature-content light-grey-black-color-bg" style="flex: 1;">
+                    <h6 class="text-uppercase">CRDF GLOBAL</h6>
+                    <p class="mb-0 grey-color-text">CRDF Global is an independent nonprofit organization founded in 1995 in response to the collapse of the Soviet Union and the threat of large-scale proliferation of weapons technology from the region.  With support authorized by the Nunn-Lugar Act of 1991 and the Freedom Support Act of 1992, as well private foundation contributions, CRDF Global embarked on bolstering the global scientific community and fostering alternatives to weapons research.</p>
                   </div>
+                  <div class="yit-feature-footer dark-grey-black-color-bg pad-10-all pl-20"> <a class="cream-color-text text-uppercase" href="https://www.crdfglobal.org/" title="Read More">Know More <i class="fa fa-long-arrow-right"></i></a> </div>
                 </div>
               </div>
-              <div class="item">
-                <div class="yit-item">
-                  <p>WebPanda is a great theme to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start . Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem deserunt facilis minima sequi doloribus! Sit repellendus tempora quaerat quis labore laborum sequi, illum aperiam eius consectetur numquam error! Cum, ducimus!</p>
-                  <div class="yit-thumbnail">
-                    <div class="yit-display-tb-cell">
-                      <img width="100" height="100" src="images/testimonial/yit-thumb-3.jpg" alt="Testimonial Image"
-                    class="yit-img img-circle border-style-disp-none">
-                    </div>
-                    <div class="yit-content yit-display-tb-cell">
-                      <ul class="yit-rating yit-listing-inline">
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                        <li><a href="Javascript:void(0);"><i class="fa fa-star-o"></i></a></li>
-                      </ul>
-                      <h5 class="font-xxsmall text-left">Zim Joseph</h5>
-                      <h6 class="yit-client-post grey-color-text text-left">Politics Leader</h6>
-                    </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-4" style="display:flex">
+              <div class="yit-feature-item" style="align-items:stretch">
+                <div style="height:100%; display:flex; flex-direction:column">
+                  <figure class="mb-0">
+                    <img src="images/demo-categories/lawyer/usc_pic.png" alt="Thumbnail" width="870" height="400">
+                  </figure>
+                  <div class="yit-feature-content light-grey-black-color-bg" style="flex: 1;">
+                    <h6 class="text-uppercase">USC</h6>
+                    <p class="mb-0 grey-color-text">University of San Carlos (USC) is a Catholic educational institution administered since 1935 by Society of the Divine Word (SVD) missionaries. A University since 1948, USC offers the complete educational package from kindergarten, including a Montessori academy, to graduate school. Learn more about Education with a Mission and how we Witness to the Word.</p>
                   </div>
+                  <div class="yit-feature-footer dark-grey-black-color-bg pad-10-all pl-20"> <a class="cream-color-text text-uppercase" href="https://www.usc.edu.ph/" title="Read More">Know More <i class="fa fa-long-arrow-right"></i></a> </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <!-- /Testimonial Listing EOC -->
+        <!-- /Feature Listing EOC -->
+
     </div>
   </section>
   <!-- /Testimonial Section EOC -->

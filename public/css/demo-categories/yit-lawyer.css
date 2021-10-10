@@ -34,8 +34,8 @@
 .lawyer .yit-custom-fade-full-menu .nav-toggle-bar [class*="bar-"] { background:#bc9158; }
 .lawyer .yit-custom-nav-1 .nav-toggle-bar .toggle-bar-animate.bar-2 { background:none; }
 .lawyer .line-divider-one:before, .lawyer .line-divider-two:after { width:379px; height:320px; content:""; top:0; position:absolute; }
-.lawyer .line-divider-one:before { background:url(../../images/demo-categories/lawyer/line-divider.png) no-repeat 0 0;  left:15px; }
-.lawyer .line-divider-two:after { background:url(../../images/demo-categories/lawyer/line-divider-2.png) no-repeat 0 0; right:15px; }
+.lawyer .line-divider-one:before { background:url(../../images/demo-categories/lawyer/beaker-1.png) no-repeat 0 0;  left:15px; }
+.lawyer .line-divider-two:after { background:url(../../images/demo-categories/lawyer/beaker-2.png) no-repeat 0 0; right:15px; }
 
 /*
 | ========================================================
