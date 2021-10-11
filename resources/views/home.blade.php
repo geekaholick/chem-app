@@ -136,25 +136,6 @@ wordpress expert">
       <div class="flexslider flexslider-fade flex-paging-line-style">
         <ul class="slides">
           <li>
-            <div class="felx-slide-img slide-1 yit-cover-bg yit-bg-center" style="background-image:url(images/demo-categories/lawyer/Flammable.jpg);">
-              <div class="flex-slide-text">
-                <div class="container">
-                  <div class="row">
-                    <div class="col">
-                      <div class="yit-display-table white-color-text">
-                        <div class="yit-display-tb-cell">
-                          <h6 class="animate fade-right"> The International Law.</h6>
-                          <h2 class="font-xlarge font-weight-xtrabold animate fade-left">Firm For Business</h2>
-                          <a href="Javascript:void(0);" title="Explore Work" class="btn btn-rounded mt-20 mb-20 text-uppercase animate fade-in">Explore Work</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li>
             <div class="felx-slide-img slide-2 yit-cover-bg bg-fade-overlay" style="background-image:url(images/demo-categories/lawyer/Flammable.jpg);">
               <div class="flex-slide-text">
                 <div class="container">
@@ -164,7 +145,6 @@ wordpress expert">
                         <div class="yit-display-tb-cell">
                           <h2 class="font-xlarge font-weight-xtrabold animate fade-in">Let's Make Perfect.</h2>
                           <h6 class="font-xxsmall animate fade-right">For Success To Move Business.</h6>
-                          <a href="Javascript:void(0);" title="Explore Services" class="btn btn-rounded mt-20 mb-20 text-uppercase animate fade-left">Explore Services</a>
                         </div>
                       </div>
                     </div>
@@ -213,8 +193,7 @@ wordpress expert">
         <!-- /Title (hidden-lg hidden-md) -->
         <div class="col-lg-4 col-md-12 col-xl-4 hidden-md hidden-lg">
           <div class="item-content white-color-text text-center">
-            <h6 class="font-xxsmall cream-color-text">Practice Areas</h6>
-            <h2 class="white-color-text">Know Our Services </h2>
+            <h2 class="cream-color-text">Summary of Program</h2>
             <p>Biltong venison filet mignon beef ribs, meatball ad ea picanha chicken. Cillum venison cupim mollit veniam.</p>
           </div>
         </div>
@@ -252,9 +231,8 @@ wordpress expert">
         <!-- /Title (hidden-sm hidden-xs) -->
         <div class="col-lg-4 col-md-12 col-xl-4 d-flex align-items-center hidden-sm hidden-xs">
           <div class="item-content white-color-text">
-            <h6 class="font-xxsmall cream-color-text">Practice Areas</h6>
-            <h2 class="white-color-text">Know Our Services </h2>
-            <p>Biltong venison filet mignon beef ribs, meatball ad ea picanha chicken. Cillum venison cupim mollit veniam.</p>
+            <h2 class="cream-color-text">Summary of Program</h2>
+            <p>To view the complete program and training materials, <a class="cream-color-text" href="https">click here</a></p>
           </div>
         </div>
 
@@ -282,7 +260,7 @@ wordpress expert">
           <div class="col-xl-4 col-md-4 col-lg-4"></div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-1.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/patrick.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
                 <h6><a href="Javascript:void(0);" title="Blog Title">Patrick John Y. Lim, Ph.D. (Melb.)</a></h6>
                 <p>Dr. Lim, a full professor of the University of San Carlos (USC) in Cebu, Philippines, is an active advocate in promoting chemical safety and security. He finished his doctorate degree in Chemistry at the University of Melbourne, Australia. Dr. Lim wears several hats: he is also the Director of the Research, Development, Extension, and Publications Office (RDEPO), the Editor-in-Chief of The Philippine Scientist, and the President of the Integrated Chemists of the Philippines (ICP) Cebu Chapter.</p>
@@ -292,7 +270,7 @@ wordpress expert">
           <div class="col-xl-4 col-md-4 col-lg-4"></div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/sarno.png" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/brian.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
                 <h6><a href="Javascript:void(0);" title="Blog Title">Brian John Sarno, Ph.D</a></h6>
                 <p>Dr. Sarno is currently the Chair of the Department of Chemistry of the University of San Carlos (USC). He earned his doctorate degree in Material Science and Production Engineering at Kagoshima University, Japan. Dr. Sarno is now teaching Biochemistry and Physical Chemistry to undergraduate and graduate students of Chemistry and allied courses in USC.</p>
@@ -301,16 +279,16 @@ wordpress expert">
           </div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/SAMPLE.PNG" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/kristie.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
                 <h6><a href="Javascript:void(0);" title="Blog Title">MARIE KRISTIE B. REYES, R.Ch.</a></h6>
                 <p>Ms. Reyes, a registered chemist, is the Laboratory Head of the University of San Carlos- Water Laboratory. She is an alumna of the Chemical Security Program (CSP) and is the principal investigator of this three-day remote training on Chemical Safety and Security.</p>
                 </div>
             </div>
           </div>
-                    <div class="col-xl-4 col-md-4 col-lg-4">
+          <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/blog-3.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/SHARA.JPG" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
                 <h6><a href="Javascript:void(0);" title="Blog Title">Sharajen A. Julasiri, M.S. (Non-thesis)</a></h6>
                 <p>Ms. Julasiri, a licensed chemist, finished her master’s degree in Chemistry (Non-thesis) at the University of San Carlos, Philippines. She was the Research Laboratory-in-Charge and the Pollution Control Officer of the Department of Chemistry. Currently, she is assigned at the Research, Development, Extension, and Publications Office (RDEPO).</p>
@@ -324,57 +302,6 @@ wordpress expert">
     </div>
   </section>
   <!-- /Blog Section EOC -->
-
-  <!-- /Why Section BOC -->
-  <section id="why" class="lawyer-why-us section-h-space section-v-space xs-no-space xs-space-none">
-    <div class="container-fluid">
-      <div class="row no-gutters">
-        <div class="col-lg-6 col-md-12 col-xl-6">
-          <div class="item-bg height-full yit-bg-center yit-bg-center parallax-bg" style="background-image:url(images/demo-categories/lawyer/section-img-2.jpg);"
-          data-stellar-background-ratio="0.5"></div>
-        </div>
-
-        <!-- Feature Listing BOC -->
-        <div class="col-lg-6 col-md-12 col-xl-6">
-          <div class="item-content pad-100-all xs-pad-small">
-            <h6 class="font-xxsmall cream-color-text">Key Offers</h6>
-            <h2>Why Hire Us? </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt voluptatibus laudantium rerum distinctio nisi assumenda neque, fugiat velit vitae placeat eligendi atque deleniti earum tempore sed, repudiandae possimus laborum expedita.</p>
-              <div class="yit-feature style-1 xs-text-center">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                      <div class="yit-feature-item"> <i class="justice-themis cream-color-text icon-medium mb-20"></i>
-                        <h6 class="mb-10"> Great Discount </h6>
-                        <p class="alt-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                      </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                      <div class="yit-feature-item"> <i class="justice-law cream-color-text icon-medium mb-20"></i>
-                        <h6 class="mb-10"> Community Service</h6>
-                        <p class="alt-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                      </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                      <div class="yit-feature-item"> <i class="justice-person cream-color-text icon-medium mb-20"></i>
-                        <h6 class="mb-10">Group Of Lawyers</h6>
-                        <p class="alt-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                      </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                      <div class="yit-feature-item"> <i class="justice-books cream-color-text icon-medium mb-20"></i>
-                        <h6 class="mb-10">Expert In Laws</h6>
-                        <p class="alt-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quos dolor, omnis harum neque dignissimos laborum magni culpa tempora. </p>
-                      </div>
-                    </div>
-                  </div>
-              </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-  <!-- /Why Section EOC -->
 
   <!-- /Testimonial Section BOC -->
   <section id="client" class="lawyer-testimonial" style="background-image:url(images/demo-categories/lawyer/dark_pattern.png);">
@@ -395,13 +322,13 @@ wordpress expert">
               <div class="yit-feature-item" style="align-items:stretch">
                 <div style="height:100%; display:flex; flex-direction:column">
                   <figure class="mb-0">
-                    <img src="images/other/01.jpg" alt="Thumbnail" width="870" height="400">
+                    <img src="images/demo-categories/lawyer/csp_pic.png" alt="Thumbnail" width="870" height="400">
                   </figure>
                   <div class="yit-feature-content light-grey-black-color-bg" style="flex: 1;">
-                    <h6 class="text-uppercase">CSPF</h6>
-                    <p class="mb-0 grey-color-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eius ullam deleniti debitis in non dolorem tempora, eveniet dicta ex esse quo nisi quaerat repellendus culpa sapiente necessitatibus impedit</p>
+                    <h6 class="text-uppercase">CSP</h6>
+                    <p class="mb-0 grey-color-text">Chemical Security Program (CSP) partners with law enforcement, government, academic, and industrial communities in the Middle East, Eastern Europe, Africa, and South and Southeast Asia to strengthen their ability to prevent, detect, and mitigate chemical attacks and the proliferation of weaponizable chemicals. CSP secures chemical weapons-related assets (such as chemicals, equipment, technologies, expertise, and infrastructure) and helps partner-state authorities prevent their transfer to terrorists or proliferator states that may conduct chemical attacks.</p>
                   </div>
-                  <div class="yit-feature-footer dark-grey-black-color-bg pad-10-all pl-20"> <a class="cream-color-text text-uppercase" href="Javascript:void(0);" title="Read More">Know More <i class="fa fa-long-arrow-right"></i></a> </div>
+                  <div class="yit-feature-footer dark-grey-black-color-bg pad-10-all pl-20"> <a class="cream-color-text text-uppercase" href="https://www.state.gov/key-topics-office-of-cooperative-threat-reduction/" title="Read More">Know More <i class="fa fa-long-arrow-right"></i></a> </div>
                 </div>
               </div>
             </div>
@@ -440,76 +367,6 @@ wordpress expert">
     </div>
   </section>
   <!-- /Testimonial Section EOC -->
-
-  <!-- /Contact Section BOC -->
-  <section id="contact" class="lawyer-contact section-v-space section-h-space xs-space-none">
-    <div class="container-fluid">
-      <div class="row no-gutters">
-
-        <!-- /Contact Form BOC -->
-        <div class="col-xl-6 col-md-12 col-lg-6">
-            <div class="yit-contact-form pad-50-all">
-              <div class="text-center mt-40">
-                <h6 class="font-xxsmall cream-color-text">Let's Have Coffee</h6>
-                <h4>Free Consultation</h4>
-              </div>
-              <div class="common-form input-rect-round input-bg mt-40">
-                <form id="contact-form" name="contact-form" class="row justify-content-end">
-                  <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="form-group control-group">
-                      <input placeholder="Enter Name" class="form-control" name="firstname" id="firstname" type="text">
-                    </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="form-group control-group">
-                      <input placeholder="Enter Email" class="form-control" name="email" id="email" type="email">
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-xl-6">
-                    <div class="form-group control-group">
-                      <input placeholder="Enter Phone" class="form-control" name="phoneno" id="phoneno" type="text">
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-xl-6 col-lg-6">
-                    <div class="form-group">
-                      <select class="yit-nice-select form-control width-full">
-                        <option value="1">Practice Area</option>
-                        <option value="2">Family Law</option>
-                        <option value="3">Business Law</option>
-                        <option value="4">Sex Law</option>
-                      </select>
-                      <div class="clearfix"></div>
-                    </div>
-                  </div>
-                  <div class="col-12">
-                    <div class="form-group">
-                      <textarea placeholder="Enter Message" name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
-                    </div>
-                  </div>
-                  <div class="col-3">
-                    <div class="form-group">
-                      <input name="contact-submit" id="contact-submit" class="btn btn-rounded control-group btn-block" value="Submit" type="submit">
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-        </div>
-        <!-- /Contact Form EOC -->
-
-        <!-- /Cotact Bg BOC -->
-        <div class="col-xl-6 col-md-12 col-lg-6 hidden-xs">
-          <div class="item-bg height-full yit-bg-center yit-bg-center" style="background-image:url(images/demo-categories/lawyer/section-img-3.jpg);"
-                    data-stellar-background-ratio="0.5"></div>
-        </div>
-        <!-- /Cotact Bg EOC -->
-
-      </div>
-    </div>
-  </section>
-  <!-- /Contact Section EOC -->
-
-  <!-- ====== /CONTENT EOC ====== -->
 
   <!-- ====== /FOOTER BOC ====== -->
   <footer class="webp-startup-footer footer-dark-style yit-footer-morden-alt-2" style="background-image:url(images/demo-categories/lawyer/dark_pattern.png);">
