@@ -143,8 +143,8 @@ wordpress expert">
                     <div class="col">
                       <div class="yit-display-table white-color-text">
                         <div class="yit-display-tb-cell">
-                          <h2 class="font-xlarge font-weight-xtrabold animate fade-in">Let's Make Perfect.</h2>
-                          <h6 class="font-xxsmall animate fade-right">For Success To Move Business.</h6>
+                          <h2 class="font-xlarge font-weight-xtrabold animate fade-in">Safety, Security, and Success</h2>
+                          <h4 class="animate fade-right">Requires 100% commitment.</h4>
                         </div>
                       </div>
                     </div>
@@ -232,7 +232,7 @@ wordpress expert">
         <div class="col-lg-4 col-md-12 col-xl-4 d-flex align-items-center hidden-sm hidden-xs">
           <div class="item-content white-color-text">
             <h2 class="cream-color-text">Summary of Program</h2>
-            <p>To view the complete program and training materials, <a class="cream-color-text" href="https">click here</a></p>
+            <p>To view the complete program and training materials, <a class="cream-color-text" href="https://drive.google.com/drive/folders/1PPCiltqPQsp4G6EENCJnywsMLZ5FoA3h?usp=sharing">click here</a></p>
           </div>
         </div>
 
@@ -270,7 +270,7 @@ wordpress expert">
           <div class="col-xl-4 col-md-4 col-lg-4"></div>
           <div class="col-xl-4 col-md-4 col-lg-4">
             <div class="yit-blog-item white-color-bg img-shadow flex-full-height">
-              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/brian.jpg" alt="Blog Thumbnail" width="1170" height="782"></figure>
+              <figure class="yit-blog-thumbnail"> <img src="images/demo-categories/lawyer/sarno.PNG" alt="Blog Thumbnail" width="1170" height="782"></figure>
               <div class="yit-blog-detail pad-20-all">
                 <h6><a href="Javascript:void(0);" title="Blog Title">Brian John Sarno, Ph.D</a></h6>
                 <p>Dr. Sarno is currently the Chair of the Department of Chemistry of the University of San Carlos (USC). He earned his doctorate degree in Material Science and Production Engineering at Kagoshima University, Japan. Dr. Sarno is now teaching Biochemistry and Physical Chemistry to undergraduate and graduate students of Chemistry and allied courses in USC.</p>
@@ -310,7 +310,7 @@ wordpress expert">
         <div class="row">
           <div class="col">
             <div class="text-center">
-              <h2 class="text-uppercase caption-title">We are <span class="cream-color-text">branding agency</span></h2>
+              <h2 class="text-uppercase caption-title" style="color:#ffffff"><span class="cream-color-text">Organized</span> by</h2>
             </div>
           </div>
         </div>
@@ -380,59 +380,34 @@ wordpress expert">
             <div class="yit-contact-item mb-20">
               <i class="icon-map-pin etline-icon icon-small mb-15"></i>
                 <h6 class="font-xxsmall mb-10">Address</h6>
-                <p>Level 13, Eliza Melbourne, Vic 3</p>
+                <p>Room 320 3/F Bunzel Building Nasipit Talamban</p>
             </div>
           </div>
           <div class="col-xl-3 col-md-3 col-lg-3">
             <div class="yit-contact-item mb-20">
               <i class="icon-envelope etline-icon icon-small mb-15"></i>
               <h6 class="font-xxsmall mb-10">Email Us</h6>
-              <a href="mailto:info@webpanda.com" title="Send Email">info@webpanda.com</a>
+              <a href="mailto:info@webpanda.com" title="Send Email">waterlab@usc.edu.ph</a>
+              <a href="mailto:info@webpanda.com" title="Send Email">mkbreyes@usc.edu.ph</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-3 col-lg-3">
             <div class="yit-contact-item mb-20">
               <i class="icon-phone etline-icon icon-small mb-15"></i>
-                <h6 class="font-xxsmall mb-10">Call Us</h6>
-                <a href="skype:+63123456789" title="Call Us">+63 12345 67890</a>
+                <h6 class="font-xxsmall mb-10">Trunk Line</h6>
+                <a href="skype:+63123456789" title="Call Us">+63 032 230 0100 loc 110</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-3 col-lg-3">
             <div class="yit-contact-item mb-20">
               <i class="icon-chat etline-icon icon-small mb-15"></i>
-                <h6 class="font-xxsmall mb-10">Live Support</h6>
-                <p><a href="Javascript:void(0);" title="Live Support">Click To Chat</a></p>
+                <h6 class="font-xxsmall mb-10">Direct Line</h6>
+                <p><a href="Javascript:void(0);" title="Live Support">+63 032 345 3811</a></p>
             </div>
           </div>
         </div>
       </div>
       <!-- /Contact Block EOC -->
-
-      <!-- /Copyright BOC -->
-      <div class="yit-foot-widget style-1">
-        <div class="row">
-          <div class="col-xl-4 col-lg-3 col-md-3 hidden-xs hidden-sm">
-            <a href="Javascript:void(0);" title="WebPanda">
-              <img src="images/demo-categories/lawyer/logo.png" width="214" height="47" alt="WebPanda Default" data-at2x="images/demo-categories/lawyer/logo@2x.png">
-            </a>
-          </div>
-          <div class="col-xl-4 col-lg-6 col-md-7 align-items-center d-flex justify-content-center">
-            <p class="trade">© 2018 <a class="cream-color-text" href="Javsacript:void(0);" title="WebPanda">WebPanda</a> is Proudly Powered by
-              <a class="cream-color-text" href="https://themeforest.net/user/yankeethemes" target="_blank" title="Yankee Themes">Yankee Themes</a></p>
-          </div>
-          <div class="col-xl-4 col-lg-3 col-md-5">
-            <div class="yit-social float-right style-3">
-              <ul>
-                <li><a class="facebook" href="Javascript:void(0);" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a class="twitter" href="Javascript:void(0);" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a class="linkedin" href="Javascript:void(0);" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                <li><a class="instagram" href="Javascript:void(0);" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- /Copyright EOC -->
 
      </div>
     </div>
